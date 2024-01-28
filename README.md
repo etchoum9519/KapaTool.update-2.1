@@ -62,7 +62,7 @@ parameters to be filled in:
 
 
 #
-
+<img align="right" width="350" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
 Projects can be assigned to employees. The program follows the specified parameters
 exactly. Because both departments switchgear manufacture and kiln construction are preferred,
 some employees could sometimes become no project attributed. This situation can be averted by
@@ -72,7 +72,7 @@ distributed.
 #
 
 
-<img align="center" width="350" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
+
 
 #
 
@@ -86,15 +86,11 @@ The following informations may prove to be helpful for the correct allocation of
 
 The Kapa-Software offers three execution buttons:
 
-    • Automatic storage on the onejoon server (link: ’/opt/kapa/data/in/in.xlt’)
+    • SAVE: Automatic storage on the onejoon server (link: ’/opt/kapa/data/in/in.xlt’)
 
-    • Automatic updating of SAP capacity lists (from source: ’/opt/kapa/data/sap/export.xlsx’)
+    • REFRESH LIST: Automatic updating of SAP capacity lists (from source: ’/opt/kapa/data/sap/export.xlsx’)
 
-    • Automatic processing of the Python script with reference to the completed input parameter.
-
-#
-
-![Bildschirmfoto 2024-01-27 um 10 57 14](https://github.com/etchoum/capacity-planification-tool/assets/93908331/c136c023-56be-481d-8764-93ddd4dcd57f)
+    • ACCEPT: Automatic processing of the Python script with reference to the completed input parameter.
 
 #
 
@@ -128,7 +124,7 @@ into account to ensure accuracy in the data generated from the output calendar.
 
 
 
-#### Security procedures, Sustainability
+## Security procedures, Sustainability
 
 #
 
