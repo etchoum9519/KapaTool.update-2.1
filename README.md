@@ -76,7 +76,7 @@ As a rule, the user should specify here in the following order
 
 <br>
 
-> [!NOTE] : 
+> [!NOTE]
 > The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
 
 <p align="center">
@@ -99,8 +99,10 @@ The input file contains three analogous attached workbooks with names resp. „P
     
 <img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
 <br>   
+
 > [!IMPORTANT]
 > The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
+
 <br> <br>
 
 
