@@ -4,6 +4,16 @@ Capacity planification with SAP/R3 and Excel, for production departments
 <br> 
 
 The KapaTool originates from the need to plan capacities efficiently in production departments. It was important to efficiently manage and process SAP lists in order to make predictions about possible deficits or external orders. The programming of an interactive output calendar was foundedas solution to link employee lists with SAP capacities in a relatively short period of time. The project began in October 2022. The first versions were produced in March 2023 and August 2023, and the current 2.0 version is now fully usable.
+
+- [Installation](#installation)
+  - [sub1](#sub1)
+  - [sub2](#sub2)
+- [Usage](#usage)
+  - [sub3](#sub3)
+  - [sub4](#sub4)
+- [License](#license)
+- [Links](#links)
+
 <br> <br> 
 
 # I - Usability
