@@ -125,7 +125,7 @@ The created calendar mainly consists of three parts:
 
     • For better overview, the grafics can be updated according to maximum weekly capacity utilization, for example
 
-<img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="500" height="600" />Ist-Soll-Analyse<img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="500" height="600" />
+<img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="500" height="600" /> Ist-Soll-Analyse <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="500" height="600" />
 
 
     • The maximum utilization time is flexible and some target workstations are not assigned according to the designations 63*, 64* or 65* [See Figure 16 and 17].
