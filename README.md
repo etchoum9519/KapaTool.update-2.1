@@ -27,7 +27,7 @@ The following is a detailled explanation.
 
 The responsible person receive the "in.xlsm" Input file (Excel Workbook with macros). If the password is entered successfully, the folder opens automatically with the following planning parameters to be filled in:
 
-    • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) 
+    • Projects, Orders or PSP-Elements in any order, comma-separated
 
     • number of working days in the week (5 - 6) 
     
@@ -42,6 +42,9 @@ The responsible person receive the "in.xlsm" Input file (Excel Workbook with mac
     • status of the projects (whether open, already started or already finished), 
     
     • and whether the program should avoid empty Boxes. 
+
+> [!TIP]
+> You can also attribute colors to projects. 
 
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
@@ -77,7 +80,7 @@ As a rule, the user should specify here in the following order
 <br>
 
 > [!NOTE]
-> The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
+> The KapaTool takes year-ends, current and up-coming calendar-weeks and days into account to ensure accuracy in the data generated from the output calendar
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum9519/KapaTool.update-2.1/assets/157910011/5e2dd0f4-81e2-4fe2-9b76-7525440b4df4"
