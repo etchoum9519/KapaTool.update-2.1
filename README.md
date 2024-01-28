@@ -76,7 +76,8 @@ As a rule, the user should specify here in the following order
 
 <br>
 
-Note: The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
+> [!NOTE]  
+>: The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/b68490e9-86f8-4ae3-8ea9-7febced2c381"
@@ -93,10 +94,13 @@ The input file contains three analogous attached workbooks with names resp. „P
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/22a2e6d6-7090-470f-944f-35c430a73ac8"
 </p>
+    
 <br> 
+    
 <img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
 <br>   
-The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
+> [!IMPORTANT]  
+> The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
 <br> <br>
 
 
@@ -136,6 +140,7 @@ The created calendar mainly consists of three parts:
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/05527d8c-34a7-4d3d-a5cf-700fa142faf2"
 </p> 
+    
     • Complete workbook for a quick overview and comparison
 
 <p align="center">
@@ -149,9 +154,11 @@ The complete process can be described in nine main steps, whereas the last one c
 
 ![Bildschirmfoto 2024-01-27 um 17 43 51](https://github.com/etchoum/capacity-planification-tool/assets/93908331/44868ce0-e217-4021-bd69-70c066164212)
 
-# Contacts
-e.tchoumkeungatat@stud.uni-goettingen
-etchoum9519@gmail.com
+# References
+e.tchoumkeungatat@stud.uni-goettingen <br>
+etchoum9519@gmail.com <br>
+simon.steingraeber@onejoon.de <br>
+Onejoon GmbH
 
 
 
