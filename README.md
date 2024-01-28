@@ -1,5 +1,4 @@
 # KapaTool.update-2.1 
-<br> 
 Capacity planification with SAP/R3 and Excel, for production departments
 
 <br> <br> 
@@ -10,13 +9,12 @@ possible deficits or external orders. The programming of an interactive output c
 as solution to link employee lists with SAP capacities in a relatively short period of time. The
 project began in October 2022. The first versions were produced in March 2023 and August 2023,
 and the current 2.0 version is now fully usable.
-#
-
+<br> <br> 
 
 # I - Usability
 
 
-#
+<br> <br> 
 Three main steps are relevant by using the KapaTool software:
 
     1. Filling out the Excel input file
@@ -26,16 +24,16 @@ Three main steps are relevant by using the KapaTool software:
     3. Analysis of inventories in the output calendar.
 
 The following is a detailled explanation.
-#
+<br> <br> 
 
 ## How to fill the Excel Input file
 
-#
+<br> <br> 
 <p align="center">
   <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
-#
+<br> <br> 
 
 The responsible persons of the different production departments receive the "in.xlsm" Input file
 (Excel Workbook with macros) with personal passwords. The "in.xlsm" file is readable and fillable
@@ -59,11 +57,11 @@ parameters to be filled in:
     
     • and whether the program should avoid empty Boxes. 
 
-#
+<br> <br> 
 <img align="center" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 
 
-#
+<br> <br> 
 <img align="right" width="350" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
 Projects can be assigned to employees. The program follows the specified parameters
 exactly. Because both departments switchgear manufacture and kiln construction are preferred,
@@ -71,16 +69,16 @@ some employees could sometimes become no project attributed. This situation can 
 checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically
 distributed.
 
-#
+<br> <br> 
 
 
 
 
-#
+<br> <br> 
 
 The following informations may prove to be helpful for the correct allocation of capacities.
 
-#
+<br> <br> 
 
 ## How to save the Input file onto a server
 
