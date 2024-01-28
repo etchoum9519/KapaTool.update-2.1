@@ -7,6 +7,8 @@ The KapaTool originates from the need to plan capacities efficiently in producti
 
 * List item
 
+[# I - Usability]([https://github.com/hillaryfraley/jobbriefings#purpose](https://github.com/etchoum9519/KapaTool.update-2.1/edit/main/README.md))
+
 - [I - Usability](# Usability)
   - [How to fill the Excel Input file](## A- How to fill the Excel Input file)
   - [How to save the Input file onto a server](## B - How to save the Input file onto a server)
