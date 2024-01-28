@@ -76,14 +76,14 @@ As a rule, the user should specify here in the following order
 
 <br>
 
-> [!NOTE:]  
+> [!NOTE]:  
 > The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum9519/KapaTool.update-2.1/assets/157910011/5e2dd0f4-81e2-4fe2-9b76-7525440b4df4"
 </p>
 <br> <br> 
-https://github.com/etchoum9519/KapaTool.update-2.1/assets/157910011/5e2dd0f4-81e2-4fe2-9b76-7525440b4df4
+    
 ## C - Security procedures, Sustainability
 
 The input file contains three analogous attached workbooks with names resp. „Projects&transaction quantities“, „DATA“(updated SAP lists), and „Time series“. These are used to immediately view the working flow and capacities according to the status specified in the input file, their development over time. They can only be edited by removing the respective sheet protection using the respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button.
@@ -99,7 +99,7 @@ The input file contains three analogous attached workbooks with names resp. „P
     
 <img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
 <br>   
-> [!IMPORTANT:]  
+> [!IMPORTANT]:  
 > The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
 <br> <br>
 
