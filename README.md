@@ -14,7 +14,7 @@ and the current 2.0 version is now fully usable.
 # I - Usability
 
 
-<br> <br> 
+<br>
 Three main steps are relevant by using the KapaTool software:
 
     1. Filling out the Excel input file
