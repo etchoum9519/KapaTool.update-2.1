@@ -3,12 +3,7 @@ Capacity planification with SAP/R3 and Excel, for production departments
 
 <br> 
 
-The KapaTool originates from the need to plan capacities efficiently in production departments.
-It was important to efficiently manage and process SAP lists in order to make predictions about
-possible deficits or external orders. The programming of an interactive output calendar was founded
-as solution to link employee lists with SAP capacities in a relatively short period of time. The
-project began in October 2022. The first versions were produced in March 2023 and August 2023,
-and the current 2.0 version is now fully usable.
+The KapaTool originates from the need to plan capacities efficiently in production departments. It was important to efficiently manage and process SAP lists in order to make predictions about possible deficits or external orders. The programming of an interactive output calendar was foundedas solution to link employee lists with SAP capacities in a relatively short period of time. The project began in October 2022. The first versions were produced in March 2023 and August 2023, and the current 2.0 version is now fully usable.
 <br> <br> 
 
 # I - Usability
@@ -30,8 +25,7 @@ The following is a detailled explanation.
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
-The responsible person receive the "in.xlsm" Input file (Excel Workbook with macros). If the password is entered successfully, the folder opens automatically with the following planning
-parameters to be filled in:
+The responsible person receive the "in.xlsm" Input file (Excel Workbook with macros). If the password is entered successfully, the folder opens automatically with the following planning parameters to be filled in:
 
     • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) 
 
@@ -54,18 +48,13 @@ parameters to be filled in:
 </p>
 
 <img align="right" width="380" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
-Projects can be assigned to employees. The program follows the specified parameters
-exactly. Because both departments switchgear manufacture and kiln construction are preferred,
-some employees could sometimes become no project attributed. This situation can be averted by
-checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically
-distributed.
-<br> 
+Projects can be assigned to employees. The program follows the specified parameters exactly. Because both departments switchgear manufacture and kiln construction are preferred,some employees could sometimes become no project attributed. This situation can be averted by checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically distributed.
+<br> <br> 
 The following informations may prove to be helpful for the correct allocation of capacities.
 
+<br> <br> 
 
 ## B - How to save the Input file onto a server
-
-#
 
 The Kapa-Software offers three execution buttons:
 
@@ -74,8 +63,6 @@ The Kapa-Software offers three execution buttons:
     • REFRESH LIST: Automatic updating of SAP capacity lists (from source: ’/opt/kapa/data/sap/export.xlsx’)
 
     • ACCEPT: Automatic processing of the Python script with reference to the completed input parameter.
-
-#
 
 As a rule, the user should specify here in the following order
 
@@ -87,24 +74,15 @@ As a rule, the user should specify here in the following order
 
     4. as well as the days on which these prescriptions are to take place.
 
-Note: The KapaTool takes year ends and only current and up-coming calendar weeks and days
-into account to ensure accuracy in the data generated from the output calendar
+Note: The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
 
 ![Bildschirmfoto 2024-01-27 um 11 01 17](https://github.com/etchoum/capacity-planification-tool/assets/93908331/b68490e9-86f8-4ae3-8ea9-7febced2c381)
 
-
+<br> <br> 
 
 ## C - Security procedures, Sustainability
 
-#
-
-The input file contains three analogous attached workbooks with names resp. „Projects&transaction
-quantities“, „DATA“(updated SAP lists), and „Time series“. These are used to immediately view
-the working flow and capacities according to the status specified in the input file, their develop-
-ment over time. They can only be edited by removing the respective sheet protection using the
-respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button
-[See Figure 5]
-
+The input file contains three analogous attached workbooks with names resp. „Projects&transaction quantities“, „DATA“(updated SAP lists), and „Time series“. These are used to immediately view the working flow and capacities according to the status specified in the input file, their development over time. They can only be edited by removing the respective sheet protection using the respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button.
 
 ![Bildschirmfoto 2024-01-27 um 16 49 58](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d1c7aa84-38c4-4e7e-b58e-6ef611a13f7d)
 
@@ -113,9 +91,7 @@ respective sheet password, and automatically updated by pressing the „REFRESH 
 The software does not necessarily need all open areas in the Team Management section to be
 closed to work efficiently. In some cases, however, it may be necessary to keep the names of the
 departments safe from external view. In this case, first collapsing all open areas would be required
-for this function to be successful [see Figure 8 right].
-
-#
+for this function to be successful.
 
 ![Bildschirmfoto 2024-01-27 um 16 47 58](https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24)
 
