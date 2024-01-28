@@ -93,11 +93,11 @@ The input file contains three analogous attached workbooks with names resp. „P
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/22a2e6d6-7090-470f-944f-35c430a73ac8"
 </p>
-
-<img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24"  >
+<br> 
+<img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
 The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
-
 <br> <br>
+
 
 # II - Output Calendar, Analysis of Inventories 
 
@@ -132,52 +132,37 @@ The created calendar mainly consists of three parts:
 
     • For better overview, the grafics can be updated according to maximum weekly capacity utilization, for example
 
-#
-
 ![Bildschirmfoto 2024-01-27 um 17 04 39](https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558)
 
-#
 
     • The maximum utilization time is flexible and some target workstations are not assigned according to the designations 63*, 64* or 65* [See Figure 16 and 17].
 
-#
-
-![Bildschirmfoto 2024-01-27 um 17 05 29](https://github.com/etchoum/capacity-planification-tool/assets/93908331/169018ca-ba0e-4ead-953f-7f117ef7a813)
-
-#
+<p align="center">
+  <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/169018ca-ba0e-4ead-953f-7f117ef7a813"
+</p> 
 
     • A related workbook with the selected data set for rapid search is also available
 
-#
-
-![Bildschirmfoto 2024-01-27 um 17 11 58](https://github.com/etchoum/capacity-planification-tool/assets/93908331/05527d8c-34a7-4d3d-a5cf-700fa142faf2)
-
-#
-
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/05527d8c-34a7-4d3d-a5cf-700fa142faf2"
+</p> 
     • Complete workbook for a quick overview and comparison
 
-#
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c087e86c-15dc-4aad-aecb-3936870f71e6"
+</p> 
+<br> <br>
 
-![Bildschirmfoto 2024-01-27 um 17 13 21](https://github.com/etchoum/capacity-planification-tool/assets/93908331/c087e86c-15dc-4aad-aecb-3936870f71e6)
+# Conclusion - The Software Supply-Chain
 
-#
-
-
-# Conclusion
-
-#
-
-The complete process can be described in nine main steps, whereas the last one counts for the
-repetition of the complete algorithm.
-In summary, the following main steps are observed:
-
-#
+The complete process can be described in nine main steps, whereas the last one counts for the repetition of the complete algorithm. In summary, the following main steps are observed:
 
 ![Bildschirmfoto 2024-01-27 um 17 43 51](https://github.com/etchoum/capacity-planification-tool/assets/93908331/44868ce0-e217-4021-bd69-70c066164212)
 
 
-—————————————————————————————————————————
-
+—————————
+***END***
+---------
 
 
 
