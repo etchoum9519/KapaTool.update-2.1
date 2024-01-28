@@ -99,7 +99,9 @@ The input file contains three analogous attached workbooks with names resp. „P
     
 > [!IMPORTANT]
 > The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
+
 </p>
+
 <br> <br>
 
 
