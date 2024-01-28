@@ -13,8 +13,6 @@ and the current 2.0 version is now fully usable.
 
 # I - Usability
 
-
-<br>
 Three main steps are relevant by using the KapaTool software:
 
     1. Filling out the Excel input file
@@ -28,9 +26,8 @@ The following is a detailled explanation.
 
 ## How to fill the Excel Input file
 
-<br> <br> 
 <p align="center">
-  <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
+  <img width="500" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
 <br> <br> 
