@@ -24,18 +24,13 @@ Three main steps are relevant by using the KapaTool software:
 The following is a detailled explanation.
 <br> <br> 
 
-## How to fill the Excel Input file
+## A- How to fill the Excel Input file
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
-<br> <br> 
-
-The responsible persons of the different production departments receive the "in.xlsm" Input file
-(Excel Workbook with macros) with personal passwords. The "in.xlsm" file is readable and fillable
-exclusively with help of a valid password.
-If the password is entered successfully, the folder opens automatically with the following planning
+The responsible person receive the "in.xlsm" Input file (Excel Workbook with macros). If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
 
     • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) 
@@ -55,7 +50,7 @@ parameters to be filled in:
     • and whether the program should avoid empty Boxes. 
 
 <br> <br> 
-<img align="center" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+<img align="center" width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 
 
 <br> <br> 
@@ -77,7 +72,7 @@ The following informations may prove to be helpful for the correct allocation of
 
 <br> <br> 
 
-## How to save the Input file onto a server
+## B - How to save the Input file onto a server
 
 #
 
@@ -108,7 +103,7 @@ into account to ensure accuracy in the data generated from the output calendar
 
 
 
-## Security procedures, Sustainability
+## C - Security procedures, Sustainability
 
 #
 
