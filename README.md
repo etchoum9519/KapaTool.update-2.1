@@ -32,7 +32,7 @@ The following is a detailled explanation.
 ## How to fill the Excel Input file
 
 <p align="center">
-  <img width="300" height="300" src="https://picsum.photos/100/100](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
+  <img width="500" height="350" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
 The responsible persons of the different production departments receive the "in.xlsm" Input file
@@ -40,8 +40,6 @@ The responsible persons of the different production departments receive the "in.
 exclusively with help of a valid password.
 If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
-
-<img align="right" width="250" height="250" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 
     • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) 
 
@@ -58,6 +56,10 @@ parameters to be filled in:
     • status of the projects (whether open, already started or already finished), 
     
     • and whether the program should avoid empty Boxes. 
+
+
+<img align="center" width="500" height="350" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+
 
 #
 
