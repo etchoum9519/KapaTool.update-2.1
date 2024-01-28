@@ -58,7 +58,7 @@ parameters to be filled in:
     • and whether the program should avoid empty Boxes. 
 
 
-<img align="center" width="500" height="350" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+<img align="center" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 
 
 #
@@ -71,7 +71,8 @@ distributed.
 
 #
 
-![Bildschirmfoto 2024-01-27 um 10 56 41](https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0)
+
+<img align="center" width="350" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
 
 #
 
