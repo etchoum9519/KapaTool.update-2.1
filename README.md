@@ -1,11 +1,8 @@
 # KapaTool.update-2.1
 Capacity planification with SAP/R3 and Excel, for production departments
-
-
-## Introduction
 #
 
-
+#
 The KapaTool originates from the need to plan capacities efficiently in production departments.
 It was important to efficiently manage and process SAP lists in order to make predictions about
 possible deficits or external orders. The programming of an interactive output calendar was founded
@@ -28,12 +25,16 @@ Three main steps are relevant by using the KapaTool software:
     3. Analysis of inventories in the output calendar.
 
 The following is a detailled explanation.
+#
 
 ## How to fill the Excel Input file
 
+#
 <p align="center">
   <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
+
+#
 
 The responsible persons of the different production departments receive the "in.xlsm" Input file
 (Excel Workbook with macros) with personal passwords. The "in.xlsm" file is readable and fillable
@@ -57,7 +58,7 @@ parameters to be filled in:
     
     • and whether the program should avoid empty Boxes. 
 
-
+#
 <img align="center" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 
 
