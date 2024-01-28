@@ -80,7 +80,7 @@ The following informations may prove to be helpful for the correct allocation of
 
 #
 
-#### How to save the Input file onto a server
+## How to save the Input file onto a server
 
 #
 
@@ -94,17 +94,6 @@ The Kapa-Software offers three execution buttons:
 
 #
 
-After successfully filling in the relevant parameters, the employee availabilities also remain to be
-filled in. Employee names are specified in advance according to the various departments and can
-2
-be changed by first removing the sheet protection (each department has its own protection code).
-After changing the own list of employee the password Workbook should immediately be protected
-again.
-
-#
-
-![Bildschirmfoto 2024-01-27 um 10 57 55](https://github.com/etchoum/capacity-planification-tool/assets/93908331/08a0e6e7-9bae-4f19-87e1-0db336b574c4)
-
 As a rule, the user should specify here in the following order
 
     1. which object type is concerned for the respective employee. Possible selections are „PROJECT“, „PSP“or „ORDER“. The software offers an automatic selective option to predefine objects based on the updated source table on the right.
@@ -116,9 +105,7 @@ As a rule, the user should specify here in the following order
     4. as well as the days on which these prescriptions are to take place.
 
 Note: The KapaTool takes year ends and only current and up-coming calendar weeks and days
-into account to ensure accuracy in the data generated from the output calendar.
-
-![Bildschirmfoto 2024-01-27 um 10 59 26](https://github.com/etchoum/capacity-planification-tool/assets/93908331/67409aee-b7c1-4e0e-aefe-9549c041b86d)
+into account to ensure accuracy in the data generated from the output calendar
 
 ![Bildschirmfoto 2024-01-27 um 11 01 17](https://github.com/etchoum/capacity-planification-tool/assets/93908331/b68490e9-86f8-4ae3-8ea9-7febced2c381)
 
