@@ -31,30 +31,31 @@ The following is a detailled explanation.
 
 ## How to fill the Excel Input file
 
+<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6]">
+
 The responsible persons of the different production departments receive the "in.xlsm" Input file
 (Excel Workbook with macros) with personal passwords. The "in.xlsm" file is readable and fillable
 exclusively with help of a valid password.
 If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
 
-<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6]">
 <img align="right" width="100" height="100" src="[https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719]">
 
- <h1>   • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) <h1>
+    • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) 
 
- <h2>   • number of working days in the week (5 - 6) <h2>
+    • number of working days in the week (5 - 6) 
     
- <h3>   • number of employees to plan (1 - 50) <h3>
+    • number of employees to plan (1 - 50) 
     
- <h4>   • maximal number of working hours daily (6 - 10) <h4>
+    • maximal number of working hours daily (6 - 10) 
     
- <h5>   • maximal time capacity weekly (1 - 500) <h5>
+    • maximal time capacity weekly (1 - 500) 
     
- <h6>   • number of weeks to plan ( 1 - 30) <h6>
+    • number of weeks to plan ( 1 - 30) 
     
- <h7>   • status of the projects (whether open, already started or already finished), <h7>
+    • status of the projects (whether open, already started or already finished), 
     
- <h8>   • and whether the program should avoid empty Boxes. <h8>
+    • and whether the program should avoid empty Boxes. 
 
 #
 
