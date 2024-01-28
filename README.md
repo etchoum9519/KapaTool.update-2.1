@@ -1,7 +1,7 @@
 # KapaTool.update-2.1 
 Capacity planification with SAP/R3 and Excel, for production departments
 
-<br> <br> 
+<br> 
 
 The KapaTool originates from the need to plan capacities efficiently in production departments.
 It was important to efficiently manage and process SAP lists in order to make predictions about
