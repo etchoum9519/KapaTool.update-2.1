@@ -74,30 +74,34 @@ As a rule, the user should specify here in the following order
 
     4. as well as the days on which these prescriptions are to take place.
 
+<br>
+
 Note: The KapaTool takes year ends and only current and up-coming calendar weeks and days into account to ensure accuracy in the data generated from the output calendar
 
-![Bildschirmfoto 2024-01-27 um 11 01 17](https://github.com/etchoum/capacity-planification-tool/assets/93908331/b68490e9-86f8-4ae3-8ea9-7febced2c381)
-
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/b68490e9-86f8-4ae3-8ea9-7febced2c381"
+</p>
 <br> <br> 
 
 ## C - Security procedures, Sustainability
 
 The input file contains three analogous attached workbooks with names resp. „Projects&transaction quantities“, „DATA“(updated SAP lists), and „Time series“. These are used to immediately view the working flow and capacities according to the status specified in the input file, their development over time. They can only be edited by removing the respective sheet protection using the respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button.
 
-![Bildschirmfoto 2024-01-27 um 16 49 58](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d1c7aa84-38c4-4e7e-b58e-6ef611a13f7d)
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d1c7aa84-38c4-4e7e-b58e-6ef611a13f7d"
+</p>
+<p align="center">
+  <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/22a2e6d6-7090-470f-944f-35c430a73ac8"
+</p>
+    
+The software does not necessarily need all open areas in the Team Management section to be closed to work efficiently. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
 
-![Bildschirmfoto 2024-01-27 um 16 50 32](https://github.com/etchoum/capacity-planification-tool/assets/93908331/22a2e6d6-7090-470f-944f-35c430a73ac8)
+<p align="left">
+  <img width="400" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24"
+</p>
+<br> <br>
 
-The software does not necessarily need all open areas in the Team Management section to be
-closed to work efficiently. In some cases, however, it may be necessary to keep the names of the
-departments safe from external view. In this case, first collapsing all open areas would be required
-for this function to be successful.
-
-![Bildschirmfoto 2024-01-27 um 16 47 58](https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24)
-
-#
-
-# Output Calendar, Analysis of Inventories 
+# II - Output Calendar, Analysis of Inventories 
 
 After all parameters have been successfully entered in the input file, an output file is placed in the
 output directory after two minutes if the „ACCEPT“-button is pressed.
