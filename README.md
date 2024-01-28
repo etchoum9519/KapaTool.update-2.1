@@ -32,7 +32,7 @@ The following is a detailled explanation.
 ## How to fill the Excel Input file
 
 <p align="center">
-  <img width="500" height="350" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
+  <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6">
 </p>
 
 The responsible persons of the different production departments receive the "in.xlsm" Input file
