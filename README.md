@@ -5,14 +5,13 @@ Capacity planification with SAP/R3 and Excel, for production departments
 
 The KapaTool originates from the need to plan capacities efficiently in production departments. It was important to efficiently manage and process SAP lists in order to make predictions about possible deficits or external orders. The programming of an interactive output calendar was foundedas solution to link employee lists with SAP capacities in a relatively short period of time. The project began in October 2022. The first versions were produced in March 2023 and August 2023, and the current 2.0 version is now fully usable.
 
-- [Installation](#installation)
-  - [sub1](#sub1)
-  - [sub2](#sub2)
-- [Usage](#usage)
-  - [sub3](#sub3)
-  - [sub4](#sub4)
-- [License](#license)
-- [Links](#links)
+- [Usability](# I - Usability)
+  - [How to fill the Excel Input file](## A- How to fill the Excel Input file)
+  - [How to save the Input file onto a server](## B - How to save the Input file onto a server)
+  - [Security procedures, Sustainability](## C - Security procedures, Sustainability)
+- [Output Calendar, Analysis of Inventories](# II - Output Calendar, Analysis of Inventories)
+- [Conclusion - The Software Supply-Chain](# Conclusion - The Software Supply-Chain)
+- [References](# References)
 
 <br> <br> 
 
@@ -167,10 +166,10 @@ The complete process can be described in nine main steps, whereas the last one c
 ![Bildschirmfoto 2024-01-27 um 17 43 51](https://github.com/etchoum/capacity-planification-tool/assets/93908331/44868ce0-e217-4021-bd69-70c066164212)
 
 # References
-e.tchoumkeungatat@stud.uni-goettingen <br>
-etchoum9519@gmail.com <br>
-simon.steingraeber@onejoon.de <br>
-Onejoon GmbH
+@me1: e.tchoumkeungatat@stud.uni-goettingen <br>
+@me2: etchoum9519@gmail.com <br>
+simon.steingraeber@onejoon.de (Department responsible of the Switchgear-Construction team) <br>
+[Onejoon GmbH](https://www.onejoon.de/en/about-us/)https://www.onejoon.de/en/about-us/
 
 
 
