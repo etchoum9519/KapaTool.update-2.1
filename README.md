@@ -50,7 +50,7 @@ parameters to be filled in:
     • and whether the program should avoid empty Boxes. 
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+  <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 </p>
 
 <img align="right" width="380" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
@@ -59,17 +59,9 @@ exactly. Because both departments switchgear manufacture and kiln construction a
 some employees could sometimes become no project attributed. This situation can be averted by
 checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically
 distributed.
-
-<br> <br> 
-
-
-
-
-<br> <br> 
-
+<br> 
 The following informations may prove to be helpful for the correct allocation of capacities.
 
-<br> <br> 
 
 ## B - How to save the Input file onto a server
 
