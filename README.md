@@ -37,26 +37,24 @@ exclusively with help of a valid password.
 If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
 
-    • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right])
+<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6]">
+<img align="right" width="100" height="100" src="[https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719]">
 
-    • number of working days in the week (5 - 6)
-    
-    • number of employees to plan (1 - 50)
-    
-    • maximal number of working hours daily (6 - 10)
-    
-    • maximal time capacity weekly (1 - 500)
-    
-    • number of weeks to plan ( 1 - 30)
-    
-    • status of the projects (whether open, already started or already finished),
-    
-    • and whether the program should avoid empty Boxes.
+ <h1>   • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right]) <h1>
 
-#
-
-![Bildschirmfoto 2024-01-27 um 10 54 04](https://github.com/etchoum/capacity-planification-tool/assets/93908331/d99740ab-91b7-4cbf-a164-377be2bd26a6)
-![Bildschirmfoto 2024-01-27 um 10 55 37](https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719)
+ <h2>   • number of working days in the week (5 - 6) <h2>
+    
+ <h3>   • number of employees to plan (1 - 50) <h3>
+    
+ <h4>   • maximal number of working hours daily (6 - 10) <h4>
+    
+ <h5>   • maximal time capacity weekly (1 - 500) <h5>
+    
+ <h6>   • number of weeks to plan ( 1 - 30) <h6>
+    
+ <h7>   • status of the projects (whether open, already started or already finished), <h7>
+    
+ <h8>   • and whether the program should avoid empty Boxes. <h8>
 
 #
 
