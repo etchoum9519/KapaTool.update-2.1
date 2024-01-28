@@ -49,12 +49,11 @@ parameters to be filled in:
     
     • and whether the program should avoid empty Boxes. 
 
-<br> <br> 
-<img align="center" width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
+</p>
 
-
-<br> <br> 
-<img align="right" width="350" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
+<img align="right" width="380" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
 Projects can be assigned to employees. The program follows the specified parameters
 exactly. Because both departments switchgear manufacture and kiln construction are preferred,
 some employees could sometimes become no project attributed. This situation can be averted by
