@@ -112,23 +112,23 @@ After all parameters have been successfully entered in the input file, an output
 
 The created calendar mainly consists of three parts:
 
-    • An introduction with all important input parameters as well as an explanation of some derivations of these parameters as well (e.g date, time, total working hours per project, effective and remaining working hours).
+    1• An introduction with all important input parameters as well as an explanation of some derivations of these parameters as well (e.g date, time, total working hours per project, effective and remaining working hours).
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/dd9df18f-02f3-47c0-8bcb-ea9e604ae7b8"
 </p>
     
-    • The calendar itself with specifications of the input
+    2• The calendar itself with specifications of the input
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/66e1a8e8-016a-4297-bbcd-acffdc50fbc2"
 </p>
 
-    • Ist-Soll-Analyse: The maximum utilization time is flexible and some target workstations are not assigned according to the designations 63*, 64* or 65*, and graphs with an upper limit for the maximum weekly specified workloads in each case
+    3• Ist-Soll-Analyse: The maximum utilization time is flexible and some target workstations are currently not assigned according to the working places designations. The graphs are equipped with the weekly upper limit for time-workloads specidfied in the input.
 <p align="center">
 <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="500" height="600" /><img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="500" height="600" />
 </p>
-    • For better overview, the grafics can be updated according to maximum weekly capacity utilization, for example
+    • For better overview, the grafics can be updated according to the maximum weekly capacity utilization, for example
 
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/169018ca-ba0e-4ead-953f-7f117ef7a813"
