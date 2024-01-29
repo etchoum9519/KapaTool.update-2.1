@@ -157,8 +157,8 @@ The complete process can be described in nine main steps, whereas the last one c
 # References
 @me1: e.tchoumkeungatat@stud.uni-goettingen <br>
 @me2: etchoum9519@gmail.com <br>
-simon.steingraeber@onejoon.de (Department responsible of the Switchgear-Manufacture team) <br>
-[Onejoon GmbH](https://www.onejoon.de/en/about-us/)https://www.onejoon.de/en/about-us/
+Switchgear-Manufacture team: simon.steingraeber@onejoon.de <br>
+Online: [Onejoon GmbH](https://www.onejoon.de/en/about-us/)https://www.onejoon.de/en/about-us/
 
 
 
