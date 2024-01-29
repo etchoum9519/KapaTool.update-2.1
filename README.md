@@ -51,7 +51,7 @@ The responsible person receive the "in.xlsm" Input file (Excel Workbook with mac
 </p>
 
 <img align="right" width="380" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
-Specific projects can also be assigned to employees. The program follows the specified parameters exactly. Because both departments *switchgear manufacture* and *kiln construction* are preferred, some employees could sometimes become no project attributed. This situation can be averted by checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically distributed by orders of availabilities.
+Specific projects can also be assigned to employees. The program follows the specified parameters exactly. Because both departments *switchgear manufacture (Schaltanlagenbau)* and *kiln construction (Ofenbau)* are preferred, some employees could sometimes become no project attributed. This situation can be averted by checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically distributed by orders of availabilities.
 <br> <br> 
 The following informations may prove to be helpful for the correct allocation of capacities.
 
