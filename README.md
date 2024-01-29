@@ -101,7 +101,7 @@ The input file contains three analogous attached workbooks with names resp. „P
 <img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
     
 > [!IMPORTANT]
-> The program will work even if the Team Management section is not closed. In some cases, however, it may be necessary to keep the names of employees and departments safe from external view. In this case, it would be required to first collapse all open areas for this function to be successful.
+> The program will work even if the Team Management section is not closed. In some cases, however, it may be necessary to keep the names of employees and departments safe from external view. If so then first collapse all open areas.
 </p>
 <br> <br>
 
