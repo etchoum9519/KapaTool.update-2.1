@@ -3,7 +3,7 @@ Capacity planification with SAP/R3 and Excel, for production departments
 
 <br> 
 
-The KapaTool originates from the need to plan capacities efficiently in production departments. It was important to efficiently manage and process SAP lists in order to make predictions about possible deficits or external orders. The programming of an interactive output calendar was foundedas solution to link employee lists with SAP capacities in a relatively short period of time. The project began in October 2022. The first versions were produced in March 2023 and August 2023, and the current 2.0 version is now fully usable.
+The KapaTool originates from the need to plan capacities efficiently in production departments. It was important to efficiently manage and process SAP lists in order to make predictions about possible deficits or external orders. The programming of an interactive output calendar was founded as solution to link employee lists with SAP capacities in a relatively short period of time. The project began in October 2022. The first versions were produced in March 2023 and August 2023, and the current 2.0 version is now since January 2024 fully usable.
 <br> <br> 
 
 # I - Usability
@@ -44,14 +44,14 @@ The responsible person receive the "in.xlsm" Input file (Excel Workbook with mac
     • and whether the program should avoid empty Boxes. 
 
 > [!TIP]
-> You can also attribute colors to projects. 
+> Colors can also be attributed to projects. 
 
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/2cab8fbf-aab1-4621-a6f0-01b4a86d3719">
 </p>
 
 <img align="right" width="380" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/ab94e7a9-1c1a-40ec-9058-f2a6d8a237b0">
-Projects can be assigned to employees. The program follows the specified parameters exactly. Because both departments switchgear manufacture and kiln construction are preferred,some employees could sometimes become no project attributed. This situation can be averted by checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically distributed.
+Specific projects can also be assigned to employees. The program follows the specified parameters exactly. Because both departments switchgear manufacture and kiln construction are preferred, some employees could sometimes become no project attributed. This situation can be averted by checking the box „AUTOMATIC FILL“, so that all remaining work projects are automatically distributed by orders of availabilities.
 <br> <br> 
 The following informations may prove to be helpful for the correct allocation of capacities.
 
