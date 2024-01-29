@@ -1,5 +1,5 @@
 # KapaTool.update-2.1 
-Capacity planification with SAP/R3 and Excel, for production departments
+Capacity planification with SAP/R3 and Excel, for production departments.
 
 <br> 
 
@@ -89,7 +89,7 @@ As a rule, the user should specify here in the following order
     
 ## C - Security procedures, Sustainability
 
-The input file contains three analogous attached workbooks with names resp. „Projects&transaction quantities“, „DATA“(updated SAP lists), and „Time series“. These are used to immediately view the working flow and capacities according to the status specified in the input file, their development over time. They can only be edited by removing the respective sheet protection using the respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button.
+The input file contains three analogous attached workbooks with names resp. „Projects&transaction quantities“, „DATA“ (updated SAP lists), and „Time series“. These are used to immediately view the SAP working-flow, available capacities according to the status specified in the input file and their development over time. They can only be edited by removing the respective sheet protection using the respective sheet password, and automatically updated by pressing the „REFRESH LIST“- button.
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/d1c7aa84-38c4-4e7e-b58e-6ef611a13f7d"
@@ -101,19 +101,18 @@ The input file contains three analogous attached workbooks with names resp. „P
 <img align="left" width="600" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/a186b26b-f76a-4117-9a69-ce8252e9df24">
     
 > [!IMPORTANT]
-> The program will work even if the Team Management section is not closed. In some cases, however, it may be necessary to keep the names of the departments safe from external view. In this case, first collapsing all open areas would be required for this function to be successful.
+> The program will work even if the Team Management section is not closed. In some cases, however, it may be necessary to keep the names of employees and departments safe from external view. In this case, it would be required to first collapse all open areas for this function to be successful.
 </p>
 <br> <br>
 
 
 # II - Output Calendar, Analysis of Inventories 
 
-After all parameters have been successfully entered in the input file, an output file is placed in the
-output directory after two minutes if the „ACCEPT“-button is pressed.
+After all parameters have been successfully entered in the input file, an output file is placed in the output directory after two minutes if the „ACCEPT“-button is pressed.
 
 The created calendar mainly consists of three parts:
 
-    • An introduction with all important input parameters as well as an explanation of some derivations of these parameters as well (e.g data, time, total working hours per project, effective and remaining working hours).
+    • An introduction with all important input parameters as well as an explanation of some derivations of these parameters as well (e.g date, time, total working hours per project, effective and remaining working hours).
 
 
 <p align="center">
