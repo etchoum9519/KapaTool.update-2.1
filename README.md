@@ -80,7 +80,7 @@ As a rule, the user should specify here in the following order
 <br>
 
 > [!NOTE]
-> The KapaTool takes year-ends, current and up-coming calendar-weeks and days into account to ensure accuracy in the data generated from the output calendar
+> The KapaTool takes year-ends, current and up-coming calendar-weeks and days into account to ensure accuracy in the data generated from the output calendar.
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum9519/KapaTool.update-2.1/assets/157910011/5e2dd0f4-81e2-4fe2-9b76-7525440b4df4"
