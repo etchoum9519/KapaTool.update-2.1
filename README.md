@@ -128,19 +128,20 @@ The created calendar mainly consists of three parts:
 <p align="center">
 <img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="500" height="600" /><img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="500" height="600" />
 </p>
-    • For better overview, the grafics can be updated according to the maximum weekly capacity utilization, for example
+
+    • For better overview, the grafics can be manually updated with respect to the maximum weekly capacity utilization, for example
 
 <p align="center">
   <img width="800" height="200" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/169018ca-ba0e-4ead-953f-7f117ef7a813"
 </p> 
 
-    • A related workbook with the selected data set for rapid search is also available
+    • A related workbook with the selected data (and status) set is also available for rapid search 
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/05527d8c-34a7-4d3d-a5cf-700fa142faf2"
 </p> 
     
-    • Complete workbook for a quick overview and comparison
+    • A workbook with the complete produced SAP-List for quick overviews and comparisons
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c087e86c-15dc-4aad-aecb-3936870f71e6"
