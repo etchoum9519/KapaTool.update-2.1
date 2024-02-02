@@ -127,9 +127,9 @@ The created calendar mainly consists of three parts:
   <img width="800" height="300" src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/66e1a8e8-016a-4297-bbcd-acffdc50fbc2"
 </p>
 
-    3• Ist-Soll-Analyse: The maximum utilization time is flexible and some target workstations are currently not assigned according to the working places designations. The graphs are equipped with the weekly upper limit for time-workloads specidfied in the input.
+    3• Soll/ Ist-Analyse: The maximum utilization time is flexible and some target workstations are currently not assigned according to the working places designations. The graphs are equipped with the weekly upper limit for time-workloads specidfied in the input.
 <p align="center">
-<img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="500" height="600" /><img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="500" height="600" />
+<img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/c76458b1-ed7d-4207-b70c-0b5b528e8e57"  width="450" height="550"/><img src="https://github.com/etchoum/capacity-planification-tool/assets/93908331/e1b50558-e7d9-4320-a8dd-49e016729558" width="450" height="550"/>
 </p>
 
     • For better overview, the grafics can be manually updated with respect to the maximum weekly capacity utilization, for example
